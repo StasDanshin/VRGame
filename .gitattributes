@@ -1,3 +1,9 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 Assets/MeshBaker/Examples/Assets/ModelPrefabs/ConstructionDude/*.{fbx} filter=lfs diff=lfs merge=lfs -text
 Assets/PolygonCity/Textures/*.{tga} filter=lfs diff=lfs merge=lfs -text
+Worker.fbx filter=lfs diff=lfs merge=lfs -text
+blenderFile.unitypackage filter=lfs diff=lfs merge=lfs -text
+paintwars_gameassets.fbx filter=lfs diff=lfs merge=lfs -text
+API-3.29.0.zip filter=lfs diff=lfs merge=lfs -text
+4[[:space:]]Connectivity.[[:space:]]Collapse.unity filter=lfs diff=lfs merge=lfs -text
+5[[:space:]]Connectivity.[[:space:]]Stress.unity filter=lfs diff=lfs merge=lfs -text
